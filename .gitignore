@@ -1,3 +1,9 @@
+#Ignore SSH keys
+week4-prod
+week4-prod.pub
+*.pem
+*.key
+
 # Local .terraform directories
 **/.terraform/*
 
